@@ -19,37 +19,9 @@ K G A N is a student of information technology who works as a freelance web and 
 
 ## Skills
 
-<table style="width:100%" >
-  <tr>
-    <th></th>
-    <th >Front-End</th> 
-    <th >Back-End</th>
-  </tr>
-  <tr>
-    <td width="33%" >Mobile Dev</td>
-    <td></td>
-    <td>50</td>
-  </tr>
-  <tr>
-<td width="33%" >Web Dev</td>
-<td> 
-<div align="center">  
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) 
-</div>
-</td>
-<td>
-<div align="center">  
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-</div>
-    
-</td>
-</tr>
-<tr>
-<td>John</td>
-<td>Doe</td>
-<td>80</td>
-</tr>
-</table>
+|      |     |    |
+|------|-----|----|
+| Mobile Dev|  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) |    |
 
 
 
