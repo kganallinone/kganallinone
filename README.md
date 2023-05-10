@@ -21,7 +21,7 @@ K G A N is a student of information technology who works as a freelance web and 
 
 |      |     |    |
 |------|-----|----|
-| Mobile Dev|  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) |    |
+| Mobile Dev|  [![My Skills](https://skillicons.dev/icons?i=java,xml,html,css,flutter&perline=3)](https://skillicons.dev) |    |
 
 
 
