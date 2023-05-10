@@ -6,8 +6,9 @@ K G A N is a student of information technology who works as a freelance web and 
 
 ## Portfolio
 
-[<kbd> <br> K G A N Portfoilio <br> </kbd>][Link]
+[<kbd> <br> K G A N Portfoilio <br> </kbd>][Link] [<kbd> <br> CODE <br> </kbd>][Link]
 
+[Link]: https://github.com/kganallinone
 [Link]: https://github.com/kganallinone
 
 ## Work Experience
