@@ -29,9 +29,9 @@ K G A N is a student of information technology who works as a freelance web and 
   
 <tr>
     
-<td valign="top" width="50%">Mobile Dev</td>
+<td valign="top" width="40%">Mobile Dev</td>
     
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 <div align="center">    
 <a href="https://sketchware-pro.ga/" target="_blank"> <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/81916613?s=280&v=4" alt="React" height="50" /> </a>  
 <a href="https://www.w3schools.com/java" target="_blank"> <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="React" height="50" /> </a>  
@@ -40,7 +40,7 @@ K G A N is a student of information technology who works as a freelance web and 
 </td>
 </div>
   
-<td  valign="top" width="100%">
+<td  valign="top" width="50%">
 <div align="center">      
 <a href="https://www.tutorialspoint.com/android/index.htm" target="_blank"> <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/android-logo-png-transparent.png" alt="React" height="50" /> </a>  
 <a href="https://www.w3schools.com/java" target="_blank"> <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="React" height="50" /> </a>  
@@ -51,9 +51,9 @@ K G A N is a student of information technology who works as a freelance web and 
 </tr>
   
 <tr>
-    <td valign="top" width="50%">Web Dev</td>
-    <td valign="top" width="100%">14</td>
-    <td valign="top" width="100%">10</td>
+    <td valign="top" width="40%">Web Dev</td>
+    <td valign="top" width="50%">100</td>
+    <td valign="top" width="50%">100</td>
 </tr>
 </table>
 
