@@ -8,7 +8,7 @@ K G A N is a student of information technology who works as a freelance web and 
 
 [<kbd> <br> K G A N Portfoilio <br> </kbd>][Link] [<kbd> <br> CODE <br> </kbd>][Link] 
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/kq39yhT4rX)](https://www.facebook.com/kganallinone)
+[![Join our Discord server!]](https://www.facebook.com/kganallinone)
 
 [Link]: https://github.com/kganallinone
 [Link]: https://github.com/kganallinone
