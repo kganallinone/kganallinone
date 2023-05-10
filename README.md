@@ -1,4 +1,4 @@
-# WELCOME TO MY PROFILE!
+# About Me
 
 ### I'm KGAN , a freelance artist, and programmer.  
 
