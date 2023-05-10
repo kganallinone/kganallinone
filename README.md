@@ -6,13 +6,9 @@ K G A N is a student of information technology who works as a freelance web and 
 
 
 <br>
-
 [![Button Click]][Link] 
-
-[Button Click]: https://github.com/kganallinone
-
 <br>
-
+[Button Click]: https://github.com/kganallinone
   
 ## Work Experience
 
