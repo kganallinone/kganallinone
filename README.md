@@ -19,10 +19,30 @@ K G A N is a student of information technology who works as a freelance web and 
 
 ## Skills
 
-|      |     |    |
-|------|-----|----|
-| Mobile Dev|  [![My Skills](https://skillicons.dev/icons?i=java,android studio,html,css,flutter&perline=3)](https://skillicons.dev) |    |
-
+<table>
+  <tr>
+    <th></th>
+    <th>Back End</th>
+    <th>Front End</th>
+  </tr>
+  <tr>
+    <td>Mobile Dev</td>
+    <td>
+    <a href="https://reactjs.org/" target="_blank">
+      <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/81916613?s=280&v=4" alt="React" height="50" />
+    </a>  
+    
+    </td>
+    <td>
+      
+    </td>
+  </tr>
+  <tr>
+    <td>Web Dev</td>
+    <td>14</td>
+    <td>10</td>
+  </tr>
+</table>
 
 
 <!--
