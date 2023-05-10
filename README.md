@@ -27,17 +27,17 @@ K G A N is a student of information technology who works as a freelance web and 
   <tr>
     <th></th>
     <th>Front-End</th> 
-    <th>Back-End</th>
+    <th>Web Dev</th>
   </tr>
   <tr>
     <td>Mobile Dev</td>
-    <td>Web Dev</td>
+    <td></td>
     <td>50</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Web Dev</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>John</td>
