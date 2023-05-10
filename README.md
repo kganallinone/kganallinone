@@ -29,10 +29,14 @@ K G A N is a student of information technology who works as a freelance web and 
   <tr>
     <td>Mobile Dev</td>
     <td>
-    <a href="https://reactjs.org/" target="_blank"> <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/81916613?s=280&v=4" alt="React" height="50" /> </a>  
-    <a href="https://reactjs.org/" target="_blank"> <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="React" height="50" /> </a>  
-      <a href="https://reactjs.org/" target="_blank"> <img style="margin: 10px" src="https://i.pinimg.com/originals/0a/28/37/0a283783146fdc9cfecb98c0d4756757.png" alt="React" height="50" /> </a>  
+    <a href="https://sketchware-pro.ga/" target="_blank"> <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/81916613?s=280&v=4" alt="React" height="50" /> </a>  
+    <a href="https://www.w3schools.com/java/" target="_blank"> <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="React" height="50" /> </a>  
+      <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout" target="_blank"> <img style="margin: 10px" src="https://i.pinimg.com/originals/0a/28/37/0a283783146fdc9cfecb98c0d4756757.png" alt="React" height="50" /> </a> 
+      <a href="https://www.tutorialspoint.com/android/index.htm" target="_blank"> <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/android-logo-png-transparent.png" alt="React" height="50" /> </a>  
     </td>
+      <a href="https://www.tutorialspoint.com/android/index.htm" target="_blank"> <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/android-logo-png-transparent.png" alt="React" height="50" /> </a>  
+    <a href="https://www.w3schools.com/java/" target="_blank"> <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="React" height="50" /> </a>  
+    <a href="https://firebase.google.com/" target="_blank"> <img style="margin: 10px" src="https://w7.pngwing.com/pngs/398/821/png-transparent-firebase-google-google-i-o-icon-thumbnail.png" alt="React" height="50" /> </a>  
     <td>
       
     </td>
