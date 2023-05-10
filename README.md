@@ -1,6 +1,8 @@
 # About Me
 
-K G A N is a student of information technology who works as a freelance web and mobile developer. His expertise extends beyond coding because he is also proficient in Photoshop design and editing. In order to be effective and use his expertise after finishing his college education or in his future work, he is now gaining new knowledge and abilities. *K G A N: "I'm hoping you'll advise me and support me in whatever I do God bless you and thank you."*
+K G A N is a student of information technology who works as a freelance web and mobile developer. His expertise extends beyond coding because he is also proficient in Photoshop design and editing. In order to be effective and use his expertise after finishing his college education or in his future work, he is now gaining new knowledge and abilities. 
+
+*"I'm hoping you'll advise me and support me in whatever I do God bless you and thank you." - K G A N*
 
 ## Portfolio
 
