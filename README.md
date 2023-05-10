@@ -19,12 +19,20 @@ K G A N is a student of information technology who works as a freelance web and 
 
 ## Skills
 
+
+First Header  
+--------------------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell 
+
+
+
 <table>
 
 <tr>
 <th> 
 
-### Web Dev 
+
     
 </th>
 </tr>
