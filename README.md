@@ -8,7 +8,6 @@ K G A N is a student of information technology who works as a freelance web and 
 
 [<kbd> <br> K G A N Portfoilio <br> </kbd>][Link] [<kbd> <br> CODE <br> </kbd>][Link] 
 
-[![Join our Discord server!]](https://www.facebook.com/kganallinone)
 
 [Link]: https://github.com/kganallinone
 [Link]: https://github.com/kganallinone
@@ -32,6 +31,7 @@ K G A N is a student of information technology who works as a freelance web and 
     <td>
     <a href="https://reactjs.org/" target="_blank"> <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/81916613?s=280&v=4" alt="React" height="50" /> </a>  
     <a href="https://reactjs.org/" target="_blank"> <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="React" height="50" /> </a>  
+      <a href="https://reactjs.org/" target="_blank"> <img style="margin: 10px" src="https://i.pinimg.com/originals/0a/28/37/0a283783146fdc9cfecb98c0d4756757.png" alt="React" height="50" /> </a>  
     </td>
     <td>
       
