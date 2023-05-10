@@ -1,6 +1,18 @@
 # About Me
 
 K G A N is a student of information technology who works as a freelance web and mobile developer. His expertise extends beyond coding because he is also proficient in Photoshop design and editing. In order to be effective and use his expertise after finishing his college education or in his future work, he is now gaining new knowledge and abilities. *K G A N: "I'm hoping you'll advise him and support him in whatever he does. God bless you and thank you."*
+
+## Portfolio
+
+
+<br>
+
+[![Button Click]][Link] 
+
+[Button Click]: https://github.com/kganallinone
+
+<br>
+
   
 ## Work Experience
 
