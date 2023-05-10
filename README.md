@@ -19,10 +19,6 @@ K G A N is a student of information technology who works as a freelance web and 
 
 ## Skills
 
-<h2>Table With Invisible Borders</h2>
-
-<p>Style the table with white borders and a background color of the cells to make the impression of invisible borders.</p>
-
 <table style="width:100%" >
   <tr>
     <th></th>
