@@ -1,6 +1,6 @@
 # WELCOME TO MY PROFILE!
 
-
+### I'm KGAN , a freelance artist, and programmer.  
 
 <!--
 **kganallinone/kganallinone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
