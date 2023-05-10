@@ -31,7 +31,7 @@ th, td {
 }
 </style>
 
-<body>
+
 
 <h2>Table With Invisible Borders</h2>
 
