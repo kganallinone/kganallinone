@@ -20,7 +20,7 @@ K G A N is a student of information technology who works as a freelance web and 
 ## Skills
 
 
-<head>
+
 <style>
 table, th, td {
   border: 1px solid white;
@@ -30,7 +30,7 @@ th, td {
   background-color: #96D4D4;
 }
 </style>
-</head>
+
 <body>
 
 <h2>Table With Invisible Borders</h2>
