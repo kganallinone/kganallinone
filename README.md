@@ -21,11 +21,11 @@ K G A N is a student of information technology who works as a freelance web and 
 
 <table>
 
-<td valign="top" >
+<tr valign="top" >
   
 ### Web Dev
   
-</td>
+</tr>
 
 <tr>
 <td valign="top" width="33%">
