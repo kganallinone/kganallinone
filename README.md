@@ -23,11 +23,11 @@ K G A N is a student of information technology who works as a freelance web and 
 
 <p>Style the table with white borders and a background color of the cells to make the impression of invisible borders.</p>
 
-<table style="width:100%">
+<table style="width:100%" >
   <tr>
     <th></th>
-    <th>Front-End</th> 
-    <th>Web Dev</th>
+    <th  width="33%" >Front-End</th> 
+    <th  width="33%" >Web Dev</th>
   </tr>
   <tr>
     <td>Mobile Dev</td>
