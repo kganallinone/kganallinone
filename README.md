@@ -1,6 +1,6 @@
 # About Me
 
-### I'm KGAN , a freelance artist, and programmer.  
+### K G A N is a student of information technology who works as a freelance web and app developer. 
 
 <!--
 **kganallinone/kganallinone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
