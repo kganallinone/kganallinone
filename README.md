@@ -44,7 +44,7 @@ K G A N is a student of information technology who works as a freelance web and 
 <div align="center">      
 <a href="https://www.tutorialspoint.com/android/index.htm" target="_blank"> <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/android-logo-png-transparent.png" alt="React" height="50" /> </a>  
 <a href="https://www.w3schools.com/java" target="_blank"> <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="React" height="50" /> </a>  
-<a href="https://firebase.google.com" target="_blank"> <img style="margin: 10px" src="https://w7.pngwing.com/pngs/398/821/png-transparent-firebase-google-google-i-o-icon-thumbnail.png" alt="React" height="50" /> </a> 
+<a href="https://firebase.google.com" target="_blank"> <img style="margin: 10px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/logo_RdHo7Lf.png" alt="React" height="50" /> </a> 
 </div>      
 </td>
     
