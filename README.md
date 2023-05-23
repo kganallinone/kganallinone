@@ -1,4 +1,4 @@
-![My Image](images/readme.jpg)
+![My Image](images/readme.png)
 
 
 # About Me
