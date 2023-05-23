@@ -1,3 +1,7 @@
+## Portfolio
+
+[<kbd> <br> K G A N Portfoilio <br> </kbd>][Link] [<kbd> <br> CODE <br> </kbd>][Link] 
+
 ![My Image](images/readme.png)
 
 
@@ -7,9 +11,7 @@ K G A N is a student of information technology who works as a freelance web and 
 
 *"I'm hoping you'll advise me and support me in whatever I do. God bless you and thank you." - K G A N*
 
-## Portfolio
 
-[<kbd> <br> K G A N Portfoilio <br> </kbd>][Link] [<kbd> <br> CODE <br> </kbd>][Link] 
 
 
 [Link]: https://github.com/kganallinone
