@@ -58,7 +58,7 @@ K G A N is a student of information technology who works as a freelance web and 
 </table>
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)                            
+GUOUIO                     
                             
 <!--
 **kganallinone/kganallinone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
