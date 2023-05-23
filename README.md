@@ -1,7 +1,11 @@
+<!--
+
 # WELCOME!
 [<kbd> <br> K G A N Portfoilio <br> </kbd>][Link]
 
 ## About Me
+
+-->
 ![My Image](images/readme.png)
 
 
