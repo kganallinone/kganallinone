@@ -1,8 +1,9 @@
-## Portfolio
+# WELCOME!
+To my Github Account!
 
 [<kbd> <br> K G A N Portfoilio <br> </kbd>][Link] [<kbd> <br> CODE <br> </kbd>][Link] 
 
-# About Me
+## About Me
 
 ![My Image](images/readme.png)
 
