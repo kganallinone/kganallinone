@@ -1,7 +1,7 @@
 
 
 # WELCOME!
-[<kbd> <br> K G A N Portfoilio <br> </kbd>][https://kganallinone.github.io/KGAN-Portfolio]
+[<kbd> <br> K G A N Portfoilio <br> </kbd>](https://kganallinone.github.io/KGAN-Portfolio)
 
 ## About Me
 
