@@ -1,11 +1,11 @@
-<!--
+
 
 # WELCOME!
-[<kbd> <br> K G A N Portfoilio <br> </kbd>][Link]
+[<kbd> <br> K G A N Portfoilio <br> </kbd>][https://kganallinone.github.io/KGAN-Portfolio]
 
 ## About Me
 
--->
+
 ![My Image](images/readme.png)
 
 
