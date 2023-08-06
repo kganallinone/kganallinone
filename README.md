@@ -16,6 +16,18 @@ Kent Gabriel A Nuite is a graduate of information technology who works as a free
 - *Freelance* Graphic Designer (2020 - Present)
 - *Freelance* Web and Mobile Developer / Programmer (2021 - Present)
                
+## Skills
+
+### Hard Skills
+- Web Development
+  + Front-end
+    * HTML5, CSS, JavaScript, PyScript
+  + Back-end
+    * JavaScript, PyScript
+
+      
+
+### Soft Skills
                             
 <!--
 **kganallinone/kganallinone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
