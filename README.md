@@ -11,14 +11,10 @@ K G A N is a student of information technology who works as a freelance web and 
 *"I'm hoping you'll advise me and support me in whatever I do. God bless you and thank you." - K G A N*
 
 
-
-
-[Link]: https://github.com/kganallinone
-[Link]: https://github.com/kganallinone
-
 ## Work Experience
 
-- OJT - Student Intern at PUP Lopez (2023)
+- [OJT] Full-stack Developer / Student Intern at PUP Lopez (2023)
+- *Freelance* Traditional Artist (2018 - Present)
 - *Freelance* Graphic Designer (2020 - Present)
 - *Freelance* Web and Mobile Developer / Programmer (2021 - Present)
                
