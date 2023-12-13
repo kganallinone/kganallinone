@@ -15,6 +15,7 @@ Kent Gabriel A Nuite is a graduate of information technology who works as a free
 - *Freelance* Traditional Artist (2018 - Present)
 - *Freelance* Graphic Designer (2020 - Present)
 - *Freelance* Web and Mobile Developer / Programmer (2021 - Present)
+- Team Leader/IT Head/Full-stack Developer @ Trifecta Soulutions Inc. (2023-Present)
                
 ## Skills
 
