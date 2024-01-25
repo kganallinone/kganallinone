@@ -22,9 +22,9 @@ Kent Gabriel A Nuite is a graduate of information technology who works as a free
 ### Hard Skills
 - Web Development
   + Front-end
-    * HTML5, CSS, JavaScript, PyScript
+    * HTML5, CSS, JavaScript, PyScript, React JS
   + Back-end
-    * JavaScript, PyScript
+    * JavaScript, PyScript, Node.JS
 - Mobile Development
   + Front-end
     * XML, Java, HTML
