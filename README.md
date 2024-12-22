@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# WELCOME!
 
-## Getting Started
+## About Me
 
-First, run the development server:
+Kent Gabriel A Nuite is a graduate of information technology who works as a freelance web and mobile developer. His expertise extends beyond coding because he is also proficient in Photoshop design and editing. In order to be effective and use his expertise after finishing his college education or in his future work, he is now gaining new knowledge and abilities.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+_"I'm hoping you'll advise me and support me in whatever I do. God bless you and thank you." - K G A N_
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Work Experience
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [OJT] Full-stack Developer / Student Intern at PUP Lopez (2023)
+- _Freelance_ Traditional Artist (2018 - Present)
+- _Freelance_ Graphic Designer (2020 - Present)
+- _Freelance_ Web and Mobile Developer / Programmer (2021 - Present)
+- Team Leader/IT Head/Full-stack Developer @ Trifecta Soulutions Inc. (2023-Present)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Skills
 
-## Learn More
+### Hard Skills
 
-To learn more about Next.js, take a look at the following resources:
+- Web Development
+  - Front-end
+    - HTML5, CSS, JavaScript, PyScript, React JS
+  - Back-end
+    - JavaScript, PyScript, Node.JS
+- Mobile Development
+  - Front-end
+    - XML, Java, HTML
+  - Back-end
+    - Java
+- Other Programming Languages
+  - Python
+  - C++
+- Database/Hosting
+  - Firebase, XAMP, MySQL
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Soft Skills
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<!--
+**kganallinone/kganallinone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Deploy on Vercel
+Here are some ideas to get you started:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
