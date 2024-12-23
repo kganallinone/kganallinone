@@ -3,9 +3,11 @@ import Link from "next/link";
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-green-500 py-4">
-      <div className="container mx-auto px-4 flex justify-between items-center">
-        <p>&copy; 2023 H4ck3r Portfolio. All rights reserved.</p>
-        <div className="flex space-x-4">
+      <div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
+        <p className="text-center md:text-left">
+          &copy; 2024 kganallinone. All rights reserved.
+        </p>
+        <div className="flex justify-center md:justify-end space-x-4">
           <Link
             href="https://facebook.com"
             target="_blank"

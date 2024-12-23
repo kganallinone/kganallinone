@@ -7,15 +7,28 @@ export default function About() {
       <div className="mb-8">
         <h2 className="text-2xl font-semibold mb-4">Education</h2>
         <ul className="list-disc list-inside">
-          <li>B.S. in Computer Science, Hacker University, 2020</li>
-          <li>M.S. in Cybersecurity, Digital Fortress Institute, 2022</li>
+          <li>
+            B.S. in Information Technology, Polytechnic University of the
+            Philippines Lopez Campus, 2023
+          </li>
+          {/* <li>M.S. in Cybersecurity, Digital Fortress Institute, 2022</li> */}
         </ul>
       </div>
       <div className="mb-8">
         <h2 className="text-2xl font-semibold mb-4">Experience</h2>
         <ul className="list-disc list-inside">
-          <li>Senior Security Engineer, CyberGuard Inc., 2022-Present</li>
-          <li>Software Developer, CodeCraft Solutions, 2020-2022</li>
+          <li>
+            Technology Developer & Intern Supervisor & Team Leader, Trifecta
+            Soulutions Inc., 2023-Present
+          </li>
+          <li>
+            Developer, Develop "Online Registration System" for 17th Phillipine
+            Global Consultation on Child Welfare Services held on October 10-12,
+            2023 at Hilton Manila, Newport Boulevard, Pasay City managed by
+            National Authority for Child Care, 2023
+          </li>
+          <li>Full-Stack Developer Intern, PUP Lopez , 2023</li>
+          <li>Developer, Freelance, 2021-Present</li>
         </ul>
       </div>
       <div className="mb-8">
