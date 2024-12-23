@@ -21,38 +21,38 @@ export default function Contact() {
             href="mailto:hacker@example.com"
             className="text-green-400 hover:underline"
           >
-            hacker@example.com
+            kganallinone@gmail.com
           </Link>
         </p>
         <p>
           <strong>WhatsApp:</strong>{" "}
           <Link
-            href="https://wa.me/1234567890"
+            href="https://wa.me/qr/AESFBQ5FBQHFG1"
             target="_blank"
             rel="noopener noreferrer"
             className="text-green-400 hover:underline"
           >
-            +1 (234) 567-890
+            Kent Gabriel A Nuite
           </Link>
         </p>
         <p>
           <strong>Telegram:</strong>{" "}
           <Link
-            href="https://t.me/hackername"
+            href="https://t.me/+639511521998"
             target="_blank"
             rel="noopener noreferrer"
             className="text-green-400 hover:underline"
           >
-            @hackername
+            @kganallinone
           </Link>
         </p>
         <p>
           <strong>Viber:</strong>{" "}
           <Link
-            href="viber://chat?number=+1234567890"
+            href="viber://chat?number=+639511521998"
             className="text-green-400 hover:underline"
           >
-            +1 (234) 567-890
+            Kent Gabriel A Nuite
           </Link>
         </p>
       </div>
