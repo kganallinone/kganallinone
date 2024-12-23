@@ -9,7 +9,7 @@ const Footer = () => {
         </p>
         <div className="flex justify-center md:justify-end space-x-4">
           <Link
-            href="https://facebook.com"
+            href="https://www.facebook.com/kent.nuite?mibextid=kFxxJD"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-green-400"
@@ -17,7 +17,7 @@ const Footer = () => {
             FB
           </Link>
           <Link
-            href="https://facebook.com/page"
+            href="https://www.facebook.com/kganallinone?mibextid=kFxxJD"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-green-400"
@@ -25,7 +25,7 @@ const Footer = () => {
             FB Page
           </Link>
           <Link
-            href="https://linkedin.com"
+            href="www.linkedin.com/in/kganallinone"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-green-400"
@@ -33,7 +33,7 @@ const Footer = () => {
             LinkedIn
           </Link>
           <Link
-            href="https://github.com"
+            href="https://github.com/kganallinone"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-green-400"
