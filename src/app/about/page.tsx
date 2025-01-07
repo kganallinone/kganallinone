@@ -22,12 +22,12 @@ export default function About() {
             Soulutions Inc., 2023-Present
           </li>
           <li>
-            Developer, Develop "Online Registration System" for 17th Phillipine
-            Global Consultation on Child Welfare Services held on October 10-12,
-            2023 at Hilton Manila, Newport Boulevard, Pasay City managed by
-            National Authority for Child Care, 2023
+            Developer, Develop &quot;Online Registration System&quot; for 17th
+            Phillipine Global Consultation on Child Welfare Services held on
+            October 10-12, 2023 at Hilton Manila, Newport Boulevard, Pasay City
+            managed by National Authority for Child Care, 2023
           </li>
-          <li>Full-Stack Developer Intern, PUP Lopez , 2023</li>
+          <li>Full-Stack Developer Intern, PUP Lopez, 2023</li>
           <li>Developer, Freelance, 2021-Present</li>
         </ul>
       </div>

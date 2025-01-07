@@ -5,6 +5,7 @@ import { Tab } from "@headlessui/react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { LayoutGrid, List } from "lucide-react";
+import Image from "next/image";
 
 const projectCategories = [
   "All",
@@ -71,7 +72,7 @@ export default function Projects() {
   return (
     <div className="max-w-6xl mx-auto">
       <h1 className="text-4xl font-bold mb-8">My Projects</h1>
-      <div className="flex justify-between items-center mb-4">
+      <div className="flex justify-between items-center mb-4 gap-10">
         <Input
           type="text"
           placeholder="Search projects..."
@@ -81,14 +82,14 @@ export default function Projects() {
         />
         <div className="flex space-x-2">
           <Button
-            variant={isGridView ? "default" : "outline"}
+            variant={isGridView ? "outline" : "default"}
             size="icon"
             onClick={() => setIsGridView(true)}
           >
             <LayoutGrid className="h-4 w-4" />
           </Button>
           <Button
-            variant={!isGridView ? "default" : "outline"}
+            variant={!isGridView ? "outline" : "default"}
             size="icon"
             onClick={() => setIsGridView(false)}
           >
@@ -135,7 +136,7 @@ export default function Projects() {
                         isGridView ? "flex flex-col" : "flex items-center"
                       }`}
                     >
-                      <img
+                      <Image
                         src={project.logo}
                         alt={`${project.name} logo`}
                         className={`object-cover ${

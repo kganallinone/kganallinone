@@ -6,8 +6,8 @@ import Footer from "./components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Hacker Portfolio",
-  description: "A portfolio website with a hacker theme",
+  title: "kganallinone",
+  description: "Kent Gabriel A. Nuite Portfolio",
 };
 
 export default function RootLayout({

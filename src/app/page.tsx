@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen">
-      <h1 className="text-5xl font-bold mb-8 animate-pulse">
+      <h1 className="text-5xl font-bold mb-8 animate-pulse text-center">
         Welcome to My Portfolio
       </h1>
       <p className="text-xl mb-8 text-center">
