@@ -1,47 +1,13 @@
 # WELCOME!
 
-## About Me
+<p align="center">
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/01f1c8b0-5c19-4699-b9aa-cc116fd844ea" />
+  </a>
+</p>
 
-Kent Gabriel A Nuite is a graduate of information technology who works as a freelance web and mobile developer. His expertise extends beyond coding because he is also proficient in Photoshop design and editing. In order to be effective and use his expertise after finishing his college education or in his future work, he is now gaining new knowledge and abilities.
-
-_"I'm hoping you'll advise me and support me in whatever I do. God bless you and thank you." - K G A N_
-
-## Work Experience
-
-- [OJT] Full-stack Developer / Student Intern at PUP Lopez (2023)
-- _Freelance_ Traditional Artist (2018 - Present)
-- _Freelance_ Graphic Designer (2020 - Present)
-- _Freelance_ Web and Mobile Developer / Programmer (2021 - Present)
-- Team Leader/IT Head/Full-stack Developer @ Trifecta Soulutions Inc. (2023-Present)
-
-## Skills
-
-### Hard Skills
-
-- Web Development
-  - Front-end
-    - HTML5, CSS, JavaScript, PyScript, React JS
-  - Back-end
-    - JavaScript, PyScript, Node.JS
-- Mobile Development
-  - Front-end
-    - XML, Java, HTML
-  - Back-end
-    - Java
-- Other Programming Languages
-  - Python
-  - C++
-- Database/Hosting
-  - Firebase, XAMP, MySQL
-
-### Soft Skills
-
-
-Here's your updated tech stack section with centered icons and descriptions:
 
 ---
-
-
 <div align="center">
   
 # 💻 My Tech Stack  
